@@ -1,5 +1,3 @@
-Sure, here’s a similar guide for **Dictionaries** in Python:
-
 # Dictionary in Python
 
 A dictionary in Python is an unordered collection of data values used to store data in the form of key-value pairs. Each key in a dictionary must be unique and immutable, while the values can be of any type. Dictionaries are mutable, meaning they can be changed after creation.
@@ -131,6 +129,3 @@ Returns the number of key-value pairs in the dictionary.
 print(len(person))  # Output: 3
 ```
 
----
-
-This covers the most commonly used dictionary operations and methods in Python.
