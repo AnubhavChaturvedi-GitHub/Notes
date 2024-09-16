@@ -1,4 +1,4 @@
-### Time Complexity in Python: A Detailed Explanation with Examples
+# Time Complexity in Python: A Detailed Explanation with Examples
 
 **Time complexity** is a way to describe how the runtime of an algorithm changes as the size of the input increases. It's a critical concept in understanding the efficiency of algorithms. The time complexity is often expressed using "Big O" notation, which provides an upper limit on the growth rate of the runtime.
 
