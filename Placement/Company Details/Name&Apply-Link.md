@@ -80,3 +80,4 @@ Here is a list of companies with links to their respective career pages for job 
 76. **Digit Insurance Ltd**: [Careers](https://www.godigit.com/careers)
 77. **Rubrik**: [Careers](https://www.rubrik.com/company/careers)
 78. **iExceed Technology Solutions Private Limited**: [Careers](https://www.i-exceed.com/careers/)
+79. **Skit.ai Pvt Limited** : [Careers](https://skit.ai/careers/)
