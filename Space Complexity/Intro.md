@@ -184,4 +184,3 @@ def fibonacci_optimized(n):
 - **Nested structures (e.g., 2D arrays) → O(N * M)**  
   _Example: Storing a matrix or grid._
 
--
